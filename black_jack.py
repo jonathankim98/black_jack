@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-print "I don't know shit about this program"
-=======
 import random
 class Card(object):
     """Represents a standard playing card.
@@ -143,10 +140,3 @@ if __name__ == '__main__':
     deck.move_cards(hand, 2)
     hand.sort()
     print hand
-
-
-
-
-
-"PENIS PENIS PENIS OF COURSE MY FIRST COMMENT IS PENISES"
->>>>>>> 451cbddb2ce800bfd95d343057c5bc6bd6b557ce
