@@ -113,9 +113,6 @@ class Dealer(Deck):
         self.label = label
 
 
-
-
-
 def find_defining_class(obj, method_name):
     """Finds and returns the class object that will provide
     the definition of method_name (as a string) if it is
