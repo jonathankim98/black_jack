@@ -138,6 +138,9 @@ if __name__ == '__main__':
     hand.sort()
     print hand
 
+def dick():
+    return '8===D'
+
 '''
 git add -A #any file added into folder added to personal repository
 git commit -m 'I changed...' #tells other coder what you edited
