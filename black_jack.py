@@ -140,3 +140,9 @@ if __name__ == '__main__':
     deck.move_cards(hand, 2)
     hand.sort()
     print hand
+
+
+
+
+
+"PENIS PENIS PENIS OF COURSE MY FIRST COMMENT IS PENISES"
