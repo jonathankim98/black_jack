@@ -137,3 +137,14 @@ if __name__ == '__main__':
     deck.move_cards(hand, 2)
     hand.sort()
     print hand
+
+'''
+git add -A #any file added into folder added to personal repository
+git commit -m 'I changed...' #tells other coder what you edited
+git push #puts file up the tree
+git pull #receive changes from master
+git reset --hard #brings back to earlier version, since last pull
+git stash #keeps local changes in refs/stash
+git stash show
+git stash apply #takes local changes back
+'''
