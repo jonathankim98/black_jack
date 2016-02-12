@@ -138,15 +138,7 @@ if __name__ == '__main__':
     hand.sort()
     print hand
 
-def dick():
-    return '8===D'
 
-
-def test_function(a,b,c):
-    """This is a test function for git hub"""
-
-    pass
-    
 '''
 git add -A #any file added into folder added to personal repository
 git commit -m 'I changed...' #tells other coder what you edited
